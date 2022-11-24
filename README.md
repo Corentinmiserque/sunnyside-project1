@@ -1,8 +1,8 @@
 # sunnyside-project
 
-#Technologies
-*HTML
-*SCSS
+# Technologies
+* HTML
+* SCSS
 
-#Author
+# Author
 Miserque Corentin
