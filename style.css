@@ -254,7 +254,7 @@ header:hover .hamburger {
   position: absolute;
   border-radius: 50px;
   z-index: -1;
-  opacity: 0.2;
+  opacity: 0.5;
   transform: translateY(3.8vw) translateX(-1vw);
 }
 .parent1 .wine img {
@@ -537,7 +537,7 @@ footer .social img {
     width: 11vw;
     height: 1vw;
     background: hsl(51deg, 100%, 49%);
-    opacity: 0.2;
+    opacity: 0.5;
     transform: translateY(1vw) translateX(-0.9vw);
   }
   .parent1 .wine img {
@@ -578,7 +578,7 @@ footer .social img {
     content: "";
     width: 11vw;
     height: 1vw;
-    opacity: 0.2;
+    opacity: 0.5;
     transform: translateY(1vw) translateX(-0.9vw);
   }
   /*parent2 desktop*/
