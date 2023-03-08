@@ -21,6 +21,6 @@ This time, the deadline for finishing the project is November 24th in the mornin
 
 ## Screenshots
 
-![desktop](./sunnyside-agency-landing-page-main/sunnyside-agency-landing-page-main%20/images/Desktop%20-%20Active.png)
+![desktop](./sunnyside-agency-landing-page-main%20/images/Desktop%20-%20Active.png)
 
-![mobile](./sunnyside-agency-landing-page-main/sunnyside-agency-landing-page-main%20/images/Mobile.png)
+![mobile](./sunnyside-agency-landing-page-main%20/images/Mobile.png)
