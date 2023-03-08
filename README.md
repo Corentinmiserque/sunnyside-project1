@@ -21,6 +21,8 @@ This time, the deadline for finishing the project is November 24th in the mornin
 
 ## Screenshots
 
+- website mockup: https://www.figma.com/file/XAkjbnDhAjD4hzHPMmAS4U/sunnyside-becode?node-id=0-179&t=d5hmYRe58S3KKMqB-0
+
 ![desktop](./sunnyside-agency-landing-page-main%20/images/Desktop%20-%20Active.png)
 
 ![mobile](./sunnyside-agency-landing-page-main%20/images/Mobile.png)
